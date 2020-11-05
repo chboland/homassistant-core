@@ -1,0 +1,14 @@
+{
+  "domain": "waterkotte",
+  "name": "Waterkotte heatpump",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/waterkotte",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@chboland"
+  ]
+}

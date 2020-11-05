@@ -215,6 +215,7 @@ FLOWS = [
     "vilfo",
     "vizio",
     "volumio",
+    "waterkotte",
     "wemo",
     "wiffi",
     "wilight",
